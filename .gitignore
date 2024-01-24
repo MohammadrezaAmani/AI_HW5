@@ -1,0 +1,10 @@
+*.log
+*.toc
+*.tux
+*.pyc
+*.aux
+.ipynb_checkpoints/*
+*.out
+*.lof
+*.gz
+*.csv
